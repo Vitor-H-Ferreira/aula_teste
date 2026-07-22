@@ -21,7 +21,7 @@ Exemplo de uso da estilizaçâo em tachado ~~Palavra de exemplo* utiliza-se~~
 2. Segundo passo
 
 
-Acesse o [google](www.google.com.br)
+Acesse o [google](https://www.google.com.br)
 
 ![logo](https://escolhasegura.com.br/celulares-mais-vendidos-no-brasil-2015/)
 
