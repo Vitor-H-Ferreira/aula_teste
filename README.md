@@ -38,4 +38,4 @@ function boasVindas(nome) {
 | html | Sim | Ativo |
 | Markdown | sim | Ativo |
 
-![PC]()
+![PC](https://github.com/Vitor-H-Ferreira/aula_teste/blob/main/pc_gamer_tempest.jpg)
