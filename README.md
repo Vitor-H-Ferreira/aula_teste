@@ -23,6 +23,8 @@ Exemplo de uso da estilizaçâo em tachado ~~Palavra de exemplo* utiliza-se~~
 
 Acesse o [google](www.google.com.br)
 
+![logo](https://escolhasegura.com.br/celulares-mais-vendidos-no-brasil-2015/)
+
 Exemplo de trecho de codigo:
 ```javascript
 function boasVindas(nome) {
@@ -32,4 +34,8 @@ function boasVindas(nome) {
 
 ## Exemplo de tabelas
 | Recursos | Suporte | Status |
-| Recursos | Suporte | Status |
+| :--- | :--- | :--- |
+| html | Sim | Ativo |
+| Markdown | sim | Ativo |
+
+![Pc](https://www.intel.com.br/content/www/br/pt/products/systems-devices/desktops.html)
