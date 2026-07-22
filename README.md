@@ -23,7 +23,7 @@ Exemplo de uso da estilizaçâo em tachado ~~Palavra de exemplo* utiliza-se~~
 
 Acesse o [google](https://www.google.com.br)
 
-![logo](https://escolhasegura.com.br/celulares-mais-vendidos-no-brasil-2015/)
+![logo](https://cdn.pixabay.com/photo/2025/05/24/12/40/whale-9619752_640.png)
 
 Exemplo de trecho de codigo:
 ```javascript
@@ -37,5 +37,3 @@ function boasVindas(nome) {
 | :--- | :--- | :--- |
 | html | Sim | Ativo |
 | Markdown | sim | Ativo |
-
-![Pc](https://www.intel.com.br/content/www/br/pt/products/systems-devices/desktops.html)
